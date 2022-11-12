@@ -1,0 +1,62 @@
+.body {
+    color: blue;
+
+
+}
+
+.li {
+    text-align: center;
+    font-size: larger;
+    font-family: monospace;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    color: deepskyblue;
+   
+}
+
+p {
+    text-align: center;
+    font-size: larger;
+    font-family: monospace;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    color: deepskyblue;
+   
+}
+
+.hack {
+    color: green;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+h1.dominic {
+    text-align: center;
+    font-size: larger;
+    font-family: monospace;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    color: deepskyblue;
+   
+  
+}
+
+h2.dominic {
+    text-align: center;
+    font-size: larger;
+    font-family: monospace;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    color: deepskyblue;
+   
+  
+}
+
+.newton {
+    background-image: url(profile.png);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+   
+
+}
